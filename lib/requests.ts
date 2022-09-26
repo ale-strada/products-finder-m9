@@ -1,5 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
 
+// modifica el req para obtener un limit y un offset validos
 export function getOffsetAndLimitFromReq(
   req: NextApiRequest,
   maxLimit,
