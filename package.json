@@ -11,6 +11,8 @@
     "start": "next"
   },
   "dependencies": {
+    "airtable": "^0.11.5",
+    "algoliasearch": "^4.14.2",
     "micro-method-router": "^0.1.0",
     "next": "^12.3.1",
     "react": "^18.2.0",
